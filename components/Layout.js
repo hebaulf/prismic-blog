@@ -6,7 +6,6 @@ export const Layout = ({
   settings,
   withHeaderDivider,
   withProfile,
-  withSignUpForm,
   children,
 }) => {
   return (
@@ -18,7 +17,7 @@ export const Layout = ({
         settings={settings}
       />
       <main>{children}</main>
-      <Footer withSignUpForm={withSignUpForm} settings={settings} />
+      <Footer settings={settings} />
     </div>
   );
 };

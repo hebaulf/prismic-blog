@@ -1,9 +1,10 @@
-# Prismic + Next.js Blog Starter
+# Prismic + Next.js Blog
 
-This sample blog is an excellent starting point to explore [Next.js][nextjs] and [Prismic][prismic]. Get it up and running in minutes. Modify and adapt it to your liking; it's all yours!
+This project was built using [Prismic][prismic] + [Next.js][nextjs] with the Starter Blog from Prismic Community. This uses the Prismic slice machine to build components which is a very nice feature of Prismic.
 
-- **Demo**: [Open live demo][live-demo]
-- **Learn more about Prismic and Next.js**: [Prismic Next.js Documentation][prismic-docs]
+&nbsp;
+
+### [Live Site][live-demo]
 
 &nbsp;
 
@@ -11,9 +12,7 @@ This sample blog is an excellent starting point to explore [Next.js][nextjs] and
 
 &nbsp;
 
-## 🚀 Quick Start
-
-To start a new project using this starter, run the following command in your terminal:
+To start a new project like this, run the following command in your terminal:
 
 ```sh
 npx prismic-cli@latest theme \
@@ -21,31 +20,13 @@ npx prismic-cli@latest theme \
   --conf sm.json
 ```
 
-This command will do the following:
+### This command does the following:
 
-1. Ask you to log in to Prismic or [create an account][prismic-sign-up].
-2. Create a new Prismic content repository.
-3. Start a new Next.js project using this starter.
+1. Asks you to log in to Prismic or [create an account][prismic-sign-up].
+2. Creates a new Prismic content repository.
+3. Starts a new Next.js project using this starter.
 
 To learn more about working with Prismic, [**see the Prismic docs**][prismic-docs].
-
-## License
-
-```
-Copyright 2013-2022 Prismic <contact@prismic.io> (https://prismic.io)
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-```
 
 [prismic]: https://prismic.io/
 [prismic-docs]: https://prismic.io/docs/technologies/nextjs
