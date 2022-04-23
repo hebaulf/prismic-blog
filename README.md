@@ -32,4 +32,4 @@ To learn more about working with Prismic, [**see the Prismic docs**][prismic-doc
 [prismic-docs]: https://prismic.io/docs/technologies/nextjs
 [prismic-sign-up]: https://prismic.io/dashboard/signup
 [nextjs]: https://nextjs.org/
-[live-demo]: https://nextjs-starter-prismic-blog.vercel.app/
+[live-demo]: https://prismic-blog-navy.vercel.app/
