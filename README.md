@@ -8,7 +8,7 @@ This project was built using [Prismic][prismic] + [Next.js][nextjs] with the Sta
 
 &nbsp;
 
-<img src="https://user-images.githubusercontent.com/8601064/163122284-5b80a81e-a4fd-482e-9bd5-99b22f61175f.png" alt="Screenshots of the site seen on deskop and mobile browsers" />
+<img src="https://raw.githubusercontent.com/hebaulf/prismic-blog/main/public/static/images/blog-screenshot.png" alt="Screenshots of the site seen on deskop and mobile browsers" />
 
 &nbsp;
 
